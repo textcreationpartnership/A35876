@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue between Father P----rs and William P---n</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35876</idno>
+            <idno type="STC">Wing D1310</idno>
+            <idno type="STC">ESTC R29717</idno>
+            <idno type="EEBO-CITATION">11196495</idno>
+            <idno type="OCLC">ocm 11196495</idno>
+            <idno type="VID">46685</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35876)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46685)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue between Father P----rs and William P---n</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1687?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication supplied by Wing, Union Theological Seminary suggests publication date 1679--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penn, William, 1644-1718.</term>
+               <term>Petre, Edward, 1631-1699.</term>
+               <term>Society of Friends --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:46685:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:46685:1" rendition="simple:additions"/>
+            <head>A Dialogue between Father <hi>P—rs</hi> and <hi>William P—n.</hi>
+            </head>
+            <sp>
+               <speaker>F. <hi>P.</hi>
+               </speaker>
+               <p>WHY how now <hi>William?</hi> Why ſo curſed ſneakingly this morning? Methinks I ſee the very ſame ſilly looks in thy countenance, as the Ruſſianly <hi>Iriſh</hi> Squire made thee put on, when he found thee a bed with his Miſtreſs at <hi>Cork;</hi> who, as they ſay, by threatning thee with a ſound Drubbing, ſo far extin<g ref="char:EOLhyphen"/>guiſht the Flames within, that thou couldſt not forbear <hi>Quaking</hi> ever ſince.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Humh! <hi>Quaking.</hi> Truly Brother <hi>P—rs</hi> I ſay unto thee, that were but thy <hi>Actions</hi> as harmleſs as thy <hi>Wit,</hi> I am almoſt perſwaded I ſhould not have found thee in this <hi>ſtinking condition.</hi> And I ſay further, that hadſt thou but half ſo much <hi>Light</hi> within thee, as that Son of <hi>Belial</hi> left in me, thou mightſt have imbib'd a conſiderable <hi>muchneſs</hi> of <hi>Educa<g ref="char:EOLhyphen"/>tion,</hi> from the example of my prudence in the time of my <hi>Tribulation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F. <hi>P.</hi>
+               </speaker>
+               <p>As how I prethee.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I verily when I foreſaw the Timber ready to fall upon my Shoulders, thought it a burden too heavy for me to bear, and wiſely withdrew from under the impending ſtorm: And tho my Bowels con<g ref="char:EOLhyphen"/>tinually earn'd after the Lady (ſo called) yet I mortify'd the fleſhly luſts of this wicked World, and conſin'd the <hi>Out-goings</hi> of the inward Man to the ſecret Congregations of the Saints; and whenever I find a neceſſity of obeying the motions of the Spirit, am content to pour out my ſelf upon the Siſters only. Now if—</p>
+            </sp>
+            <sp>
+               <speaker>F. <hi>P.</hi>
+               </speaker>
+               <p>Nay but <hi>William,</hi> I muſt here take leave to interrupt thee, and tell thee, in thine own language, that thou lieſt, and the truth is not in thee: For altho thou ſetteſt up thy ſelf as an Arbitrary Tyrant over the Bodies of the She-Saints, inſomuch that the Fathers of our Society, as well as thoſe of other Orders, do as it were with one voice complain of thee <hi>William P—n;</hi> that tho they herd amongſt your Aſſemblies more now than ever they did, yet are they diſturb'd in the <hi>comfortable enjoyment</hi> of their <hi>Help-meets</hi> by thee the ſaid <hi>W. P.</hi> who doſt Traite<g ref="char:EOLhyphen"/>rouſly and Maliciouſly debauch the Holy Siſters from the Duty and Allegiance which they owe unto their Spiritual <hi>Fathers,</hi> and engroſſeſt them to thy ſelf. Thus Father <hi>P.</hi> loſt his precious <hi>Rebecca,</hi> thus was
+<pb n="2" facs="tcp:46685:2"/>Father <hi>S.</hi> deſerted by the devout <hi>Priſcilla.</hi> Nay, they ſay thou hadſt form'd a deſign of carrying them all away into Captivity to thy <hi>Sylva<g ref="char:EOLhyphen"/>nia,</hi> and ſhutting them in a <hi>Muſſulmannick</hi> Nunnery, called a <hi>Seraglio,</hi> erected for thine own uſe and pleaſure; and for this very reaſon, ſay they, thou didſt in thy <hi>Declaration</hi> there ſet forth, give <hi>Liberty of Conſci<g ref="char:EOLhyphen"/>ence</hi> to <hi>Jews</hi> and <hi>Mahometans.</hi> Yet notwithſtanding all this, thou doſt ſtill run a whoring after thine old inventions, to the great ſcandal of the wicked, and greater anguiſh of mind to thoſe deluded <hi>Siſters.</hi> Witneſs the young Gentlewoman whom thou didſt lately cauſe to <hi>ſqueak</hi> in the Coach, out of which ſhe was forc'd to leap, <hi>and run two miles almoſt up to the knees in dirt, for fear leſt thou ſhouldſt have forc'd her further to cry out.</hi> Well, but to the purpoſe again. I'd fain know of thee how I might have been <hi>edify'd</hi> by the example of thy former <hi>debaucheries.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Why then to deal plainly with thee, know that when thou waſt laſt ſhopt up in <hi>Newgate,</hi> under the clutches of thy old Friend <hi>Titus Oates,</hi> I take thy condition to be very near akin to mine, when I was faln into the hands of my Mercileſs <hi>Iriſh Perſecutor.</hi> Now after ſo nar<g ref="char:EOLhyphen"/>row an eſcape, hadſt thou but valued thy <hi>Neck</hi> half ſo much as I did my <hi>Shoulders,</hi> or been ſo terrify'd with a <hi>Halter</hi> as I was with the <hi>Basti<g ref="char:EOLhyphen"/>nado,</hi> thou wou'dſt not have run thy Head into the ſame Nooſe, by act<g ref="char:EOLhyphen"/>ing over again the <hi>works of Darkneſs</hi> of the <hi>Babyloniſh Whore,</hi> but wou'dſt <hi>abominate</hi> them, as I did thoſe of my <hi>Carnal Miſtreſs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F. <hi>P.</hi>
+               </speaker>
+               <p>I thought thou hadſt known us better, than to forbid a <hi>Jeſuit</hi> to <hi>Plot</hi> or <hi>act Treaſon</hi> where ever he comes. But ſince we are ſo well ac<g ref="char:EOLhyphen"/>quainted in other things, prethee leave off thy <hi>Cant</hi> for a while, and give me the beſt counſel thou canſt how I ſhall behave my ſelf in this Juncture of Affairs.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Well Father, ſince we are alone, I ſhall lay aſide the perſon of a <hi>Quaker</hi> for the preſent. To deal therefore fairly with you, and like a Friend, is to adviſe you to rank the Author of <hi>Killing no Murther</hi> amongſt your beſt and ſoundeſt Caſuiſts; and follow that wholſome Counſel which he gives to <hi>Oliver Cromwell.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F. <hi>P.</hi>
+               </speaker>
+               <p>That is, you'll tell me, to one <hi>hang</hi> my ſelf out of the way.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Faith you are in the right on't. For I do aſſure you, there is not one Argument in the whole Book which might not be much better apply'd to your Reverence; beſides, a thouſand more that could be al<g ref="char:EOLhyphen"/>ledg'd, had I but the time to tell you, or you the <hi>Philoſophical</hi> patience to hear.</p>
+            </sp>
+            <sp>
+               <speaker>F. <hi>P.</hi>
+               </speaker>
+               <p>For ſatisfaction ſake in a matter of <hi>this moment,</hi> pray let's have the heads of ſome of them.</p>
+            </sp>
+            <pb n="3" facs="tcp:46685:2"/>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>In the firſt place, all that can be ſaid for the preſervation of His <hi>Majeſties</hi> Intereſt and Dignity, directly perſwades you to what I now advance. For as nothing can be more ſerviceable to him, eſpeci<g ref="char:EOLhyphen"/>ally at this time, than the united Affections of his People, ſo nothing can be more effectual to re-enkindle their Zeal for his Perſon and Ho<g ref="char:EOLhyphen"/>nour, than the removal of him who is the only occaſion as well of their preſent diſcontents, as the <hi>Confuſion</hi> they like to be in. Secondly, All the fine things that can be ſaid for the good of your <hi>Country,</hi> Center here too; for what can be more beneficial to it, whilſt there is ſuch a Storm a gathering, than by your ſuſpenſion to deprive its Enemies of their chiefeſt pretence to diſturb the publick repoſe. Nay, and laſtly, If you would but once perform this Heroical Action, the very <hi>Fathers</hi> of the <hi>Society</hi> will bear a part in the publick <hi>Jubilee;</hi> for let your life be never ſo long, no ſervice you cou'd do them will ever be able to out-ballance their Joy, when they ſhall be in Poſſeſſion of all thoſe <hi>Guineas</hi> which you receiv'd the other day from <hi>Duncomb.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F. <hi>P.</hi>
+               </speaker>
+               <p>Notwithſtanding my condition, I cannot but ſmile to ſee thee make ſuch a ſerious Fool of thy Self; for I can't imagine thee to be ſo great Aſs as to believe that I ever conſulted the Intereſt of <hi>King or the People,</hi> nor of the <hi>Society</hi> it ſelf, any more than it conſiſted with mine. Prithee therefore letting all thoſe alone, which are at preſent the leaſt of my thoughts, give me the beſt advice thou canſt concerning my own Deareſt Self.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Why if I hold my ſelf up there, I muſt ſtill continue to exhort you to imitate your <hi>Predeceſſor Achitophel,</hi> in the <hi>beſt Action</hi> he ever did in his Life, and ſet all things in order <hi>and ſo proceed.</hi> For had not you better peaceably go out of the World in a <hi>String of your own tying,</hi> than live to ſee the Brave and Generous <hi>Church-of-England-men</hi> (for ſuch ev'n <hi>we</hi> muſt confeſs them to be) to continue in their unſhaken <hi>Loyalty</hi> to their <hi>Prince,</hi> and <hi>venture their Lives and Fortunes</hi> againſt his Enemies, <hi>let their pretences be what they will;</hi> and conſequently all your Villainous Inſinuations expos'd to the juſt Indignation of His <hi>Majeſty;</hi> Your Per<g ref="char:EOLhyphen"/>ſon to the fury of the People, as your Name-ſakes had lately like to have been, and after all to fall into the hands of an unmannerly <hi>Execu<g ref="char:EOLhyphen"/>tioner.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F. <hi>P.</hi>
+               </speaker>
+               <p>Well, but I have not behav'd my ſelf ſo yet, but that I have ſome Friends remaining ſtill: What think you of the <hi>Diſſenters?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>As for the main Body of them, you have been long ago ſuffici<g ref="char:EOLhyphen"/>ently acquainted with their Sentiments concerning you. And then for our <hi>Penſioners,</hi> you may eaſily imagine how far you may truſt them,
+<pb n="4" facs="tcp:46685:3"/>ſince the Pious <hi>Mr. Alſop,</hi> the Diſcreet <hi>Mr. Lobb,</hi> the Zealous <hi>Mr. Vin<g ref="char:EOLhyphen"/>cent,</hi> inſtead of railing againſt the <hi>Church of England,</hi> according to their <hi>Duty,</hi> have <hi>tackt</hi> about already, and are bellowing full-mouth'd againſt the <hi>Abominations of the Scarlet Whore.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F. <hi>P.</hi>
+               </speaker>
+               <p>How do you find the <hi>Quakers</hi> ſtand affected? I hope you have at leaſt procur'd me ſome Friends among them.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I muſt confeſs my ſmall endeavours han't been wanting, but that damn'd <hi>Simile</hi> of my Brother <hi>Meads Fiſh-Pond,</hi> does ſo ſtick in their Stomachs, that if they ſhould but ſee one of your Character, they'd preſently believe they ſhould be devour'd as faſt as the <hi>Devil</hi> in the Picture ſwallows down <hi>Jeſuits,</hi> when he ſhits whole Armies of Soldiers. Beſides, inſtead of a <hi>Pike,</hi> they take you for a more <hi>devour<g ref="char:EOLhyphen"/>ing Otter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F. P.</speaker>
+               <p>Well then, my laſt refuge muſt be to the <hi>Church-of-England-Men,</hi> ſome of them have been my <hi>Tools</hi> already, and why mayn't I <hi>Cajole</hi> them ſo as to make them <hi>ſerve</hi> again? Tho' the Raſcals—</p>
+            </sp>
+            <stage>
+               <hi>Enter an Honeſt</hi> Tory.</stage>
+            <sp>
+               <speaker>Tory</speaker>
+               <p>Sir, Your moſt humble, and moſt obliged Servant; Sir, I heartily kiſs your hand.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Verily, <hi>John,</hi> I ſay unto thee, that I rejoyce greatly to ſee thee in this place.</p>
+            </sp>
+            <sp>
+               <speaker>F. <hi>P.</hi>
+               </speaker>
+               <p>Have you any Service to command me with His Majeſty? Would you accept of a <hi>Place?</hi> A <hi>Mandate?</hi> Or a <hi>Commiſſion?</hi> Pray, Sir, <hi>make uſe of me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>O what an inward Joy and Conſolation wou'd it be unto me, were I but able to find out a way to aſſiſt ſo good a man as thou art.</p>
+            </sp>
+            <sp>
+               <speaker>Tory.</speaker>
+               <p>A Pox take ye for a couple of <hi>Driveling Rogues:</hi> Know that I am juſt now come from waiting upon His <hi>Majeſty,</hi> who has been Gra<g ref="char:EOLhyphen"/>ciouſly pleas'd to admit me to his Hand, and given me a <hi>Commiſſion,</hi> not ſullied by the Sollicitation of ſuch Villainous <hi>Sycophants</hi> as your ſelves; which I am reſolv'd to execute in his Service to the <hi>last drop of my blood.</hi> And let me tell you, That as your <hi>impudent Impoſtures,</hi> by which, for a time, you depriv'd me of my Princes Favour, the greateſt bleſſing any true-Born <hi>Engliſhman</hi> can enjoy, cou'd not ſhake my Loyalty; ſo ſhan't all your <hi>cringeing</hi> hinder me from endeavouring to diſcover to my <hi>Royal Maſter,</hi> the <hi>Villains</hi> that have brought the <hi>Nation</hi> to this <hi>Con<g ref="char:EOLhyphen"/>fuſion.</hi>
+               </p>
+            </sp>
+            <stage>[Exit Tory.]</stage>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>
+                  <hi>Damn</hi> him for an <hi>unmannerly</hi> Raſcal. But <hi>How now Father,</hi> What's the matter with you, you look as if you were <hi>diſturb'd?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>F. <hi>P.</hi>
+               </speaker>
+               <p>I muſt retire to conſider about the <hi>advice</hi> you have giv'n me.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46685:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
